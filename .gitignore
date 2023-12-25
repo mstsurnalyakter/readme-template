@@ -2,3 +2,5 @@
 test.txt
 *.txt
 !main.txt
+
+temp/

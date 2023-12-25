@@ -5,7 +5,7 @@
             |
             @
    2. staging area/index
-            |
+            | git log --oneline
    git log   git commit -m "message" git reset --soft HEAD^
    git diff |
             @
@@ -19,3 +19,6 @@
 ## Deleting number of commits
    - git reset -soft HEAD-2
    - git reset -soft HEAD-3
+
+
+## git show commit_id/ git show/ git show HEAD

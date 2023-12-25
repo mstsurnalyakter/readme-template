@@ -12,6 +12,7 @@
    3. local repository
    4. remote repository
 
+## <---------------------------------------------------------------------------------->
 
 ## working directory @--- git reset HEAD^ --- local repository
 ## staging area @--- git reset -soft HEAD^ --- local repository
@@ -22,3 +23,19 @@
 # git checkout commit_id/HEAD~Number(save using)
 
 ## git show commit_id/ git show/ git show HEAD~Number
+## git revert
+## git clean
+## git rm
+## git checkout master(remove previous position)
+
+## <---------------------------------------------------------------------------------->
+
+ ##  .gitignore -----> text.txt
+                        .env
+                        *.txt
+                        !main.txt
+                        test?.txt[test1.txt, test2.txt(?=1,2,3...)]
+                        temp/
+
+
+## <---------------------------------------------------------------------------------->

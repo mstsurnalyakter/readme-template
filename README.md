@@ -5,7 +5,7 @@
             |
    2. staging area/index
             |
-            git commit -m "message"
+            git commit -m "message" git reset --soft HEAD^
             |
    3. local repository
    4. remote repository

@@ -64,13 +64,16 @@ __This is a mst surnaly akter. I am 21 year__
 
 ```
 <br/>
-```css
-   *{
+
+```CSS
+
+   p{
       padding:0;
       margin:0;
       list-style:none;
       box-sizing:border-box;
    }
+
 ```
 
 <br/>

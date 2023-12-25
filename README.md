@@ -19,6 +19,6 @@
 ## Deleting number of commits
    - git reset -soft HEAD~2
    - git reset -soft HEAD~3
-# git checkout(save using)
+# git checkout commit_id/HEAD~Number(save using)
 
 ## git show commit_id/ git show/ git show HEAD~Number

@@ -1,4 +1,4 @@
-# <------------------------------------- Markdown -------------------------------------------->
+# <----------------- Markdown ----------------------->
 1. what & why README.md?
 2. How to make a comment
 3. Normal text & new line
@@ -16,7 +16,7 @@
 15. Emoji
 16. Table
 
-## <--------------------------------------------------------------------------------------------->
+## <--------------------------------------------------------->
 
 <!--  -->
 My name is Mst Surnaly Akter <br/>
@@ -156,7 +156,7 @@ https://github.com/mstsurnalyakter
 |Mst Surnaly Akter | surnalyms@gmail.com |
 |                  |                     |
 | Name             |      Email          |
-| ---------------  | ------------------- |
+|                  |                     |
 |Mst Surnaly Akter | surnalyms@gmail.com |
 |Mst Surnaly Akter | surnalyms@gmail.com |
 |Mst Surnaly Akter | surnalyms@gmail.com |

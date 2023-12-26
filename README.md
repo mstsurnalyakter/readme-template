@@ -209,7 +209,11 @@ https://github.com/mstsurnalyakter
 ## git checkout master(remove previous position)
 
 # <-------------- push ------------------------------------>
-   ## git push -u origin master
+   ## git push -u origin master : local change inside remote repository
+
+# <----------------- pull ----------------------------->
+
+   ## git pull : remote change inside local repository
 
 ## <------------------------------------------------------------->
 

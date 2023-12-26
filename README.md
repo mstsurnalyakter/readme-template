@@ -170,7 +170,7 @@ https://github.com/mstsurnalyakter
 [Facebook]:https://web.facebook.com/mstsurnalyakter
 
 
-## <---------------------------------------------------------------------------------->
+## <---------------------------------------------------------->
 # git state
    1. working directory/workspace(git init)
             |
@@ -184,7 +184,7 @@ https://github.com/mstsurnalyakter
             @
    3. local repository
    4. remote repository
-      
+
     ## working directory ---- git add ---> staging area
    ## staging area --- git commit ----> local repository
    ## local repository --- git push ---> remote repository
@@ -192,7 +192,7 @@ https://github.com/mstsurnalyakter
    ## remote repository --- git fetch ---> local repository
    ## local repository ---- git merge ----> working directory
 
-## <---------------------------------------------------------------------------------->
+## <---------------------------------------------------------->
 
 ## working directory @--- git reset HEAD^ --- local repository
 ## staging area @--- git reset -soft HEAD^ --- local repository
@@ -208,7 +208,7 @@ https://github.com/mstsurnalyakter
 ## git rm
 ## git checkout master(remove previous position)
 
-## <---------------------------------------------------------------------------------->
+## <------------------------------------------------------------->
 
  ##  .gitignore -----> text.txt
                         .env

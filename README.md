@@ -184,6 +184,13 @@ https://github.com/mstsurnalyakter
             @
    3. local repository
    4. remote repository
+      
+    ## working directory ---- git add ---> staging area
+   ## staging area --- git commit ----> local repository
+   ## local repository --- git push ---> remote repository
+   ## remote repository --- git pull / clone ---> working directory
+   ## remote repository --- git fetch ---> local repository
+   ## local repository ---- git merge ----> working directory
 
 ## <---------------------------------------------------------------------------------->
 

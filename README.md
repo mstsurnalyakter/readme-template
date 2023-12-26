@@ -26,7 +26,7 @@ I am a web developer
 
 # Mst Surnaly Akter
 ## I am a web developer
-### I am font-end developer
+### I am a front-end developer
 
 <p>This is a mst surnaly akter. I am 21 year.</p>
 

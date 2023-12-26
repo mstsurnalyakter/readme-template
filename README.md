@@ -208,6 +208,9 @@ https://github.com/mstsurnalyakter
 ## git rm
 ## git checkout master(remove previous position)
 
+# <-------------- push --------------->
+   ## git push -u origin main
+
 ## <------------------------------------------------------------->
 
  ##  .gitignore -----> text.txt

@@ -209,7 +209,7 @@ https://github.com/mstsurnalyakter
 ## git checkout master(remove previous position)
 
 # <-------------- push --------------->
-   ## git push -u origin main
+   ## git push -u origin master
 
 ## <------------------------------------------------------------->
 
